@@ -4,3 +4,4 @@ Haz un pull-request para añadirte a tí mismo a la lista. Utiliza de guía [la 
 
 Participantes:
 ...
+- Eduardo Mantovani Genari <emgenari@gmail.com> ([eduardogenari](https://github.com/eduardogenari))
