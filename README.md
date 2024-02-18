@@ -1,6 +1,6 @@
 # Participantes 2024
 
-Haz un pull-request para añadirte a tí mismo a la lista. Utiliza de guía [la lista del año pasado](https://github.com/full-stack-bcn/participantes-fullstack2023).
-
 Participantes:
 - Ferran Bals Moreno <ferranbals@gmail.com> ([franksparks](https://github.com/franksparks))
+- Marc López Soler <marcls.arbucies@gmail.com> ([marclopezsoler](https://github.com/marclopezsoler/))
+- Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
