@@ -9,3 +9,5 @@ Participantes:
 - Eduardo Mantovani Genari <emgenari@gmail.com> ([eduardogenari](https://github.com/eduardogenari))
 - Francesc Mullerat frankmullerat@gmail.com [(frmuller41182)](https://github.com/frmuller41182)
 - Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
+-  Rui Ranito <r.ranito@hotmail.com> ([R-Ranito](https://github.com/R-Ranito/)
+-  
