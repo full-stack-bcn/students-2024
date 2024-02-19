@@ -10,4 +10,4 @@ Participantes:
 - Francesc Mullerat frankmullerat@gmail.com [(frmuller41182)](https://github.com/frmuller41182)
 - Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
 -  Rui Ranito <r.ranito@hotmail.com> ([R-Ranito](https://github.com/R-Ranito/)
--  
+- Coral Harmut <coral.harmut98@gmail.com> ([harmutcoral](https://github.com/harmutcoral/)
