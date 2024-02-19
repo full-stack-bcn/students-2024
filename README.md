@@ -1,6 +1,7 @@
 # Participantes 2024
 
 Participantes:
+
 - Martín Alarcón <cristianma.2109@gmail.com> ([vedderzeznick](https://github.com/vedderzeznick))
 - Ferran Bals Moreno <ferranbals@gmail.com> ([franksparks](https://github.com/franksparks))
 - Ali El Moussaui Rami <ali.e.m@outlook.com> ([aliem-r](https://github.com/aliem-r/))
@@ -13,3 +14,4 @@ Participantes:
 - Rui Ranito <r.ranito@hotmail.com> ([R-Ranito](https://github.com/R-Ranito/))
 - Pau Sàbat Martí <pausm99@gmail.com> ([pausm99](https://github.com/pausm99))
 - Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
+- Luis Antonio Castro <luisantoniokoyari@gmail.com> ([luisantonio88](https://github.com/luisantonio88))
