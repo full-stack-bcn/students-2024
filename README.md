@@ -5,6 +5,7 @@ Participantes:
 - Ferran Bals Moreno <ferranbals@gmail.com> ([franksparks](https://github.com/franksparks))
 - Ali El Moussaui Rami <ali.e.m@outlook.com> ([aliem-r](https://github.com/aliem-r/))
 - Oscar Fonte <oscar.fonte@hotmail.com> ([OscarF83](https://github.com/OscarF83))
+- Coral Harmut <coral.harmut98@gmail.com> ([harmutcoral](https://github.com/harmutcoral/)
 - Gloria Hornero <mghornero@gmail.com> ([MadameSheema](https://github.com/MadameSheema))
 - Marc López Soler <marcls.arbucies@gmail.com> ([marclopezsoler](https://github.com/marclopezsoler/))
 - Eduardo Mantovani Genari <emgenari@gmail.com> ([eduardogenari](https://github.com/eduardogenari))
