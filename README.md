@@ -8,6 +8,7 @@ Participantes:
 - Ali El Moussaui Rami <ali.e.m@outlook.com> ([aliem-r](https://github.com/aliem-r/))
 - Raiza Escobar Mosquera <raizaescobar@gmail.com> ([RaizaEscobar](https://github.com/RaizaEscobar))
 - Oscar Fonte <oscar.fonte@hotmail.com> ([OscarF83](https://github.com/OscarF83))
+- Jacobo Galofre Calbetó <jacobo.galofre@gmail.com> ([sherzock](https://github.com/sherzock))
 - Coral Harmut <coral.harmut98@gmail.com> ([harmutcoral](https://github.com/harmutcoral/)
 - Gloria Hornero <mghornero@gmail.com> ([MadameSheema](https://github.com/MadameSheema))
 - Marc López Soler <marcls.arbucies@gmail.com> ([marclopezsoler](https://github.com/marclopezsoler/))
