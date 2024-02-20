@@ -15,3 +15,4 @@ Participantes:
 - Pau Sàbat Martí <pausm99@gmail.com> ([pausm99](https://github.com/pausm99))
 - Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
 - Luis Antonio Castro <luisantoniokoyari@gmail.com> ([luisantonio88](https://github.com/luisantonio88))
+- Raiza Escobar Mosquera <raizaescobar@gmail.com> ([RaizaEscobar](https://github.com/RaizaEscobar))
