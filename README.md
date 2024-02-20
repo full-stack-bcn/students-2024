@@ -2,6 +2,7 @@
 
 Participantes:
 
+- Luis Alfredo Sanchez Castillo <luissanchezc67@gmail.com> ([Luissanchezc67](https://github.com/Luissanchezc67))
 - Martín Alarcón <cristianma.2109@gmail.com> ([vedderzeznick](https://github.com/vedderzeznick))
 - Ferran Bals Moreno <ferranbals@gmail.com> ([franksparks](https://github.com/franksparks))
 - Luis Antonio Castro <luisantoniokoyari@gmail.com> ([luisantonio88](https://github.com/luisantonio88))
