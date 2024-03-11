@@ -22,3 +22,4 @@ Participantes:
 - Enrique Velasco <je.velasco85@gmail.com> ([E-Fis](https://github.com/E-Fis))
 - Laia Valentí Zurriaga <laia.valenti@gmail.com> ([TanitVZ](https://github.com/TanitVZ))
 - Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
+- Lara Claramunt Serra <laraclaramuntserra@gmail.com> ([Laliflu](https://github.com/Laliflu))
