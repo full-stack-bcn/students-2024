@@ -14,7 +14,7 @@ Participantes:
 - Gloria Hornero <mghornero@gmail.com> ([MadameSheema](https://github.com/MadameSheema))
 - Marc López Soler <marcls.arbucies@gmail.com> ([marclopezsoler](https://github.com/marclopezsoler/))
 - Eduardo Mantovani Genari <emgenari@gmail.com> ([eduardogenari](https://github.com/eduardogenari))
-- Francesc Mullerat frankmullerat@gmail.com ([frmuller41182](https://github.com/frmuller41182))
+- Francesc Mullerat <frankmullerat@gmail.com> ([frmuller41182](https://github.com/frmuller41182))
 - Rui Ranito <r.ranito@hotmail.com> ([R-Ranito](https://github.com/R-Ranito/))
 - Pau Sàbat Martí <pausm99@gmail.com> ([pausm99](https://github.com/pausm99))
 - Luis Alfredo Sanchez Castillo <luissanchezc67@gmail.com> ([Luissanchezc67](https://github.com/Luissanchezc67))
