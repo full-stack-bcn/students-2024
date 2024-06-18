@@ -21,3 +21,4 @@ Participantes:
 - Laia Valentí Zurriaga <laia.valenti@gmail.com> ([TanitVZ](https://github.com/TanitVZ))
 - Enrique Velasco <je.velasco85@gmail.com> ([E-Fis](https://github.com/E-Fis))
 - Alba Vilanova Cortezón <avc.lleida@gmail.com> ([albavilanova](https://github.com/albavilanova))
+- Santiago Amorós Guillén <santiago.amoros@estudiantat.upc.edu> ([crazypurpleunicorn](https://github.com/crazypurpleunicorn))
